@@ -52,6 +52,10 @@
 | :-------------------------------------------------------------- |
 | A aplicação deve ser bloqueada e o erro deve ser exibido ao usuário. |
 
+| **Evidência**                                                   |
+| :-------------------------------------------------------------- |
+| (https://jam.dev/c/6888ef7c-5c19-43c0-975c-4e112ee99339)        |
+
 ---
 
 ### Caso de Teste 03: Visualizar status das solicitações de férias.
@@ -73,3 +77,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os status devem refletir corretamente o estado da solicitação.  |
+
+| **Evidência**                                                   |
+| :-------------------------------------------------------------- |
+| (https://jam.dev/c/22bc5a9e-654c-46f9-997c-bd64f781b38d)        |
