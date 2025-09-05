@@ -22,6 +22,10 @@
 | :-------------------------------------------------------------- |
 | O candidato deve ser exibido corretamente na lista após o cadastro. |
 
+| **Evidência**                                                   |
+| :-------------------------------------------------------------- |
+| (https://jam.dev/c/5093c167-cf22-4dac-a6cc-61a878cdf56a)        |
+
 ---
 
 ### Caso de Teste 02: Tentar adicionar candidato sem preencher campos obrigatórios.
@@ -46,6 +50,10 @@
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem ser validados com mensagens de erro. |
 
+| **Evidência**                                                   |
+| :-------------------------------------------------------------- |
+| (https://jam.dev/c/45dd8c77-606d-4eec-8cda-55af26cdff53)        |
+
 ---
 
 ### Caso de Teste 03: Buscar candidato cadastrado pelo nome.
@@ -68,3 +76,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O candidato pesquisado deve ser exibido na lista de resultados. |
+
+| **Evidência**                                                   |
+| :-------------------------------------------------------------- |
+| (https://jam.dev/c/4aa651d0-2e5c-4064-89a3-9b8472b7c797)        |
