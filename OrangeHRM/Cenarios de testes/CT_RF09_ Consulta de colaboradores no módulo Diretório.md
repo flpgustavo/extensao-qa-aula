@@ -21,6 +21,10 @@
 | :-------------------------------------------------------------- |
 | O nome, cargo e localização do colaborador devem ser exibidos corretamente. |
 
+| **Evidência**                                                   |
+| :-------------------------------------------------------------- |
+| (https://jam.dev/c/400cac73-537a-4d36-aee5-c450944315bd) |
+
 ---
 
 ### Caso de Teste 02: Buscar colaborador inexistente.
@@ -44,6 +48,10 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir claramente que não há registros encontrados. |
 
+| **Evidência**                                                   |
+| :-------------------------------------------------------------- |
+| (https://jam.dev/c/50ce5dad-59cf-4be0-bf58-407b9841922d) |
+
 ---
 
 ### Caso de Teste 03: Aplicar filtro por cargo (Job Title).
@@ -66,3 +74,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O filtro deve funcionar corretamente e retornar apenas resultados válidos. |
+
+| **Evidência**                                                   |
+| :-------------------------------------------------------------- |
+| (https://jam.dev/c/c704af30-3c06-4c89-8959-ee02d169a6ac) |
